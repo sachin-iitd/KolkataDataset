@@ -2,6 +2,16 @@
 
 [Kolkata Pollution Website](http://cse.iitd.ac.in/pollutiondata/kolkata)
 
+_Locations-staticLCS.csv_ contains the latitude-longitude of the static sensors installed.
+
+### Seasons
+
+| Season |   Duration                  |
+|:------:|:---------------------------:|
+| Spring | Mar 27, 2023 - Apr 27, 2023 |
+| Autumn | Sep 15, 2023 - Oct 31, 2023 |
+| Winter | Dec 01, 2023 - Jan 31, 2024 |
+
 
 ### Sample Data
 
