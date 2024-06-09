@@ -37,11 +37,10 @@ _Locations-staticLCS.csv_ contains the latitude-longitude of the static sensors 
 | Sensor source      | Colleges / Bus       | Public bus          | Commercial van       |
 | Monitoring days    | 142                  | 91                  | 114                  |
 
-### Statistical comparison of PM values in Kolkata, Delhi-NCR and Canada datasets
+### Statistical comparison of PM2.5 values in Kolkata, Delhi-NCR and Canada datasets
 
-|           | | Kolkata |                 | | Delhi |               | |Canada|                |
-|----------:|:------|:------|:----------|:-----|:----------|:----------|:---|:------|:-------------|
-|           |  PM1  |  PM2.5  | PM10  |   PM1  |   PM2.5  |   PM10 |  PM1   | PM2.5  |  PM10 |
-| Mean      |  -    |  75.82  |  -    | 120.35 |  207.92  | 226.11 | 12.15  | 15.08  | 46.45 |
-| Std-dev   |  -    |  35.49  |  -    |  57.27  | 114.36  | 123.86 |  9.02  | 12.87  | 97.36 |
-| Missing%  |  -    |   0     |  -    |   0     |   0     |   0    | 71.71  | 73.62  | 72.24 |
+|           | Kolkata |  Delhi    |  Canada |
+|----------:|:--------|:----------|:--------|
+| Mean      |  75.82  |   207.92  |  15.08  |
+| Std-dev   |  35.49  |   114.36  |  12.87  |
+| Missing%  |   0     |     0     |  73.62  |
