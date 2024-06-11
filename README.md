@@ -4,6 +4,8 @@
 
 _Locations-staticLCS.csv_ contains the latitude-longitude of the static sensors installed.
 
+_croissant-metadata.json_ contains the Croissant Metadata.
+
 ### Seasons
 
 | Season |   Duration                  |
