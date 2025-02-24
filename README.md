@@ -67,8 +67,8 @@ Some locations experience higher absolute PM due to hyper-local factors. The ora
 |                    | Kolkata              | Delhi-NCR           | Canada               |
 |-------------------:|:---------------------|:--------------------|:---------------------|
 | Total area         | 160 km2              | 559 km2             | 1138 km2             |
-| Total samples      | 104,447              | 12,542,183          | 46,080               |
-| PM2.5 Samples      | 104,447              | 12,542,183          | 12,154               |
+| Total samples      | 104,447              | 94,555              | 46,080               |
+| PM2.5 Samples      | 104,447              | 94,555              | 12,154               |
 | Pollutants covered | PM2.5                | PM1, PM2.5 and PM10 | PM1, PM2.5, PM10, CO, NO, NO2, SO2, O3|
 | Meteorological     | Temp, RH, Pressure, Wind Speed, Rainfall  | Temp, RH, Pressure, Wind Speed, Rainfall| -                    |
 | Sensor source      | Colleges / Bus       | Public bus          | Commercial van       |
